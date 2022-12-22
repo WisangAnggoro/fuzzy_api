@@ -16,3 +16,13 @@ Start
 -python app_fix.py
 ```
 
+check with this json
+```
+{
+	"humidity" : "100",
+	"sunshine": "1",
+	"radiation": "1" ,
+	"evaporation": "1",
+	"last_water": "1"
+}
+```
