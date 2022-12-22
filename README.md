@@ -16,7 +16,7 @@ Start
 -python app_fix.py
 ```
 
-check with this json
+check with this json in postman 
 ```
 {
 	"humidity" : "100",
