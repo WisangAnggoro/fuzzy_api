@@ -9,9 +9,10 @@ Install all libraries with:
 ```
 pip install -r requirements.txt
 ```
-
+```
 Start 
 -Scripts/activate
 
 -python app_fix.py
+```
 
