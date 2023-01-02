@@ -288,7 +288,7 @@ def processjson():
     #===============================================================================================================================================#
 
     #req_data = request.get_json()
-    soil_tension_in = request.json['humidity']
+    soil_tension_in = request.json['soil_tension']
     sunshine_hour_in = request.json['sunshine']
     delta_evaporation_in = request.json['evaporation']
     last_watering_in = request.json['last_water']
